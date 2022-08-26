@@ -2,3 +2,43 @@
   box-sizing: border-box;
 }
 
+/* font-family: 'Open Sans', sans-serif;
+font-family: 'Oswald', sans-serif;
+font-family: 'Roboto', sans-serif; */
+
+h1 {
+  font-family: 'Roboto', sans-serif;
+}
+
+.wrapper {
+  padding: 0 1.5em;
+}
+
+figure {
+  margin: 0;
+}
+
+.header {
+  border: 1px solid red;
+}
+
+.header-flex {
+  height: 50px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  
+}
+
+.header-navigation {
+  display: none;
+}
+
+ul li {
+  list-style: none;
+}
+
+ul li a {
+  text-decoration: none;
+
+}
