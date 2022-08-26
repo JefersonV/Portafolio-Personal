@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Capa_1" data-name="Capa 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 141.7 60.29">
+  <defs>
+    <style>
+      .cls-1, .cls-2 {
+        fill: #759eff;
+      }
+
+      .cls-1, .cls-3 {
+        font-family: Impact, Impact;
+      }
+
+      .cls-4 {
+        font-size: 49.18px;
+      }
+
+      .cls-2 {
+        font-family: MyriadPro-Regular, 'Myriad Pro';
+      }
+    </style>
+  </defs>
+  <text class="cls-4" transform="translate(0 44.03)"><tspan class="cls-1" x="0" y="0">&lt; </tspan><tspan class="cls-3" x="34.89" y="0">JV </tspan><tspan class="cls-1" x="85.59" y="0">/&gt;</tspan><tspan class="cls-2" x="131.27" y="0"> </tspan></text>
+</svg>
