@@ -43,7 +43,7 @@ figure {
 }
 
 .header {
-  border: 1px solid red;
+  /* border: 1px solid sred; */
 }
 
 .header-flex {
@@ -72,7 +72,7 @@ ul li a {
   height: 85vh;
   display: grid;
   justify-items: center;
-  border: 1px solid red;
+/*   border: 1px solid red; */
   margin-bottom: 1.5em;
 }
 
